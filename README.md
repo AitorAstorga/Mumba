@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/AitorAstorga/Nom-Nom-2020">
+  <a href="https://github.com/AitorAstorga/Mumba">
     <img src="https://user-images.githubusercontent.com/44289776/227495508-8eadc9bc-63ff-4a05-9251-bf2722dcd34a.png" alt="Logo" height="80">
   </a>
 
@@ -38,14 +38,14 @@
   <p align="center">
     Small university project game made in 2020 by <a href="https://github.com/AitorAstorga">Aitor Astorga Saez de Vicuña</a>, <a href="https://github.com/aitororuna">Aitor Oruna Rodriguez</a>, <a href="https://github.com/">Oihan Ozaeta</a> and <a href="https://github.com/danmazkih">Danel Mazkiaran Hernandez</a> and <a href="https://github.com/">Sergio Sanchez</a>
     <br />
-    <a href="https://github.com/AitorAstorga/Nom-Nom-2020"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AitorAstorga/Mumba"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://drive.google.com/file/d/1_9ExUHnXgS8bS6fT9iylY2OdBBDXaQah/view?usp=sharing">View Demo</a>
     ·
-    <a href="https://github.com/AitorAstorga/Nom-Nom-2020/issues">Report Bug</a>
+    <a href="https://github.com/AitorAstorga/Mumba/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AitorAstorga/Nom-Nom-2020/issues">Request Feature</a>
+    <a href="https://github.com/AitorAstorga/Mumba/issues">Request Feature</a>
   </p>
 </div>
 
@@ -197,16 +197,16 @@ Project Link: [https://github.com/AitorAstorga/Mumba](https://github.com/AitorAs
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/AitorAstorga/Nom-Nom-2020.svg?style=for-the-badge
-[contributors-url]: https://github.com/AitorAstorga/Nom-Nom-2020/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/AitorAstorga/Nom-Nom-2020.svg?style=for-the-badge
-[forks-url]: https://github.com/AitorAstorga/Nom-Nom-2020/network/members
-[stars-shield]: https://img.shields.io/github/stars/AitorAstorga/Nom-Nom-2020.svg?style=for-the-badge
-[stars-url]: https://github.com/AitorAstorga/Nom-Nom-2020/stargazers
-[issues-shield]: https://img.shields.io/github/issues/AitorAstorga/Nom-Nom-2020.svg?style=for-the-badge
-[issues-url]: https://github.com/AitorAstorga/Nom-Nom-2020/issues
-[license-shield]: https://img.shields.io/github/license/AitorAstorga/Nom-Nom-2020.svg?style=for-the-badge
-[license-url]: https://github.com/AitorAstorga/Nom-Nom-2020/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/AitorAstorga/Mumba.svg?style=for-the-badge
+[contributors-url]: https://github.com/AitorAstorga/Mumba/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/AitorAstorga/Mumba.svg?style=for-the-badge
+[forks-url]: https://github.com/AitorAstorga/Mumba/network/members
+[stars-shield]: https://img.shields.io/github/stars/AitorAstorga/Mumba.svg?style=for-the-badge
+[stars-url]: https://github.com/AitorAstorga/Mumba/stargazers
+[issues-shield]: https://img.shields.io/github/issues/AitorAstorga/Mumba.svg?style=for-the-badge
+[issues-url]: https://github.com/AitorAstorga/Mumba/issues
+[license-shield]: https://img.shields.io/github/license/AitorAstorga/Mumba.svg?style=for-the-badge
+[license-url]: https://github.com/AitorAstorga/Mumba/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url-aitor]: https://linkedin.com/in/aitor-astorga-saez-de-vicuña
 [linkedin-url-danel]: https://linkedin.com/in/danel-mazkiaran-hernandez-67a970248
